@@ -1,0 +1,11 @@
+/.idea
+/cmake-build-sgx-debug/
+/cmake-build-debug/
+/data
+*.so
+*.o
+/.config_SIM_DEBUG_x64
+/app
+/sim
+Enclave_t.*
+Enclave_u.*
